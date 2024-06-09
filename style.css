@@ -1,0 +1,216 @@
+/* 111111111111111111111111111 */
+/* ENG LOGO IMG */
+.custom-img {
+    max-width: 30px; /* or any other value you desire */
+    height: auto;
+}
+/* .s1{
+  vertical-align: middle;
+
+} */
+/* 222222222222222222222 */
+.text1{
+  font-size: 70px;
+}
+.black1{
+  position: absolute;
+  background-color: black;
+  height: 50px;
+  width: 120px;
+  margin-right: 300px;
+  color:white;
+  text-align: center;
+}
+.a{
+  position: absolute;
+margin-top: 18px;
+margin-left: 20px;
+}
+/* 33333333333333333 */
+.g1{
+  margin-left: 800px;
+  margin-top: -50px;
+  position:absolute;
+}
+.black{
+background-color: black;
+height: 60px;
+width: 150px;
+margin-right: 60px;
+color:white;
+text-align: center;
+}
+.a1{
+  position: absolute;
+margin-top: 18px;
+margin-left: -30px;
+}
+.cash1{
+  margin-left: 180px;
+  margin-top: -50px;
+  }
+/* 44444444444444444444 */
+
+.our{
+  margin-left: 70px;
+  margin-top: 100px; 
+}
+.image{
+  margin-bottom: -450px;
+}
+  .image1{
+    margin-bottom: -450px;
+}
+.white{
+  background-color: white;
+  height: 40px;
+  width: 140px;
+  margin-left:60px;
+  color:rgb(3, 3, 3);
+}
+.text{
+  position: absolute;
+  font-size: 15px;
+  justify-content: center;
+  margin-left: 40px;
+  margin-top: 8px;
+}
+
+/* 55555555555555 */
+.helo{
+  background-color: rgb(218, 238, 241);
+  border-radius:7px;
+}
+
+.icon {
+  font-size: 30px;
+  color: white; /* Initial color */
+  transition: color 0.3s, transform 0.3s;
+}
+
+.icon:hover {
+  color: #d9d2d1; /* Change to tomato color */
+  transform: scale(1.2); /* Scale up slightly */
+  
+} 
+
+.imgins{
+  height: 55px;
+  width: 55px;
+}
+.word-with-space
+{
+        margin-right: 10px; /* Adjust space value as needed */
+}
+
+.line{
+  margin-top:-70PX;
+  margin-left:600px;
+  width: 25px;
+}
+
+.line1{
+  margin-top:-70PX;
+  margin-left:300px;
+  
+}
+.cash{
+margin-left: 180px;
+margin-top: -100px;
+}
+.services-section {
+      width: 1000px;
+      height: 550px;
+      margin-bottom: 100px;
+      background-color: #010813; /* Change this to your desired color */
+      color: #ffffff; /* Set text color to white for better visibility */
+      padding: 20px; /* Add some padding for spacing */
+}
+.arrow{
+  position: absolute;
+  margin-left: 800px;
+  margin-top: 20px;
+}
+.see{
+    margin-left: 850px;
+    margin-top: 50px;
+  }
+  /* 66666666666666666666666666666 */
+.txtcard{
+  font-size: 12px;
+}
+.j1{
+  height: 40px;
+  width: 40px;
+  border-radius: 100px;
+  margin-left: -10px;
+  margin-top: -10px;
+}
+.testi {
+  position: absolute;
+  margin-left: 400px;
+}
+.testi1 {
+  position: absolute;
+  margin-left: 340px;
+}
+.testi2{
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 80px;
+}
+
+.mt{
+  margin-top: 120px;
+}
+.left{
+  position:absolute;
+  margin-left: 420px;
+  margin-top: 100px;
+  font-size: 2em;
+ 
+}
+.right{
+  position: absolute;
+  margin-left: 460px;
+  font-size: 2em;
+margin-top :85px;
+}
+.services-section1 {
+  width: 1000px;
+  height: 1100px;
+  margin-bottom: 100px;
+  background-color: #010813; /* Change this to your desired color */
+  color: #ffffff; /* Set text color to white for better visibility */
+  padding: 20px; /* Add some padding for spacing */
+}
+.hanu{
+  margin-left: 300px;
+}
+.hanu2{
+margin-left: 250px;
+}
+.white1{
+  background-color: white;
+  height: 40px;
+  width: 120px;
+  margin-left:370px;
+  color:rgb(3, 3, 3);
+  position: absolute; 
+}
+.imgh{
+  height: 50px;
+  width: 50px;
+}
+.txt5{
+  font-size: 13px;
+}
+.txt6{
+  font-size: 2px;
+}
+.hr{
+  width: 1000px;
+  margin-left: -35px;
+}
+.copy{margin-left: 350px;
+}
